@@ -19,4 +19,4 @@ FuseBox currently implements the following algorithms:
 
 Some code adapted from [pansharpening GUI][1]
 
-[1] http://www.math.ucla.edu/~wittman/pansharpening/
+[1]: http://www.math.ucla.edu/~wittman/pansharpening/
