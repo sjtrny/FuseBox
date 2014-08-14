@@ -3,7 +3,7 @@ FuseBox
 
 MATLAB library for pansharpening and image fusion
 
-<img src="https://raw.githubusercontent.com/sjtrny/FuseBox/master/imagery/converted/1_MS.png" align = "center" width="200px"/>   +   <img src="https://raw.githubusercontent.com/sjtrny/FuseBox/master/imagery/converted/1_PAN.png"  align = "center" width="200px"/>   =   <img src="https://raw.githubusercontent.com/sjtrny/FuseBox/master/results/fb_pansharp/fb_pansharp_1.png" " align = "center" width="200px"/>
+<img src="https://raw.githubusercontent.com/sjtrny/FuseBox/master/imagery/converted/1_MS.png" align = "center" width="100px"/>   +   <img src="https://raw.githubusercontent.com/sjtrny/FuseBox/master/imagery/converted/1_PAN.png"  align = "center" width="200px"/>   =   <img src="https://raw.githubusercontent.com/sjtrny/FuseBox/master/results/fb_pansharp/fb_pansharp_1.png" " align = "center" width="200px"/>
 
 FuseBox currently implements the following algorithms:
 
