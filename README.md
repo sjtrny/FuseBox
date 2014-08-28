@@ -17,6 +17,10 @@ FuseBox currently implements the following algorithms:
 
 ## Acknowledgement
 
-Some code adapted from [pansharpening GUI][1]
+Some code adapted from [pansharpening GUI][1].
+
+Imagery from the [United States Geological Survey][2].
+
 
 [1]: http://www.math.ucla.edu/~wittman/pansharpening/
+[2]: http://earthexplorer.usgs.gov
