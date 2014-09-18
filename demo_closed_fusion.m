@@ -1,4 +1,4 @@
-paths = ['closed_pansharp:', 'common:'];
+paths = ['closed_pansharp:', 'common:', 'imagery/eo1:'];
 addpath(paths);
 
 warning('off','all');
