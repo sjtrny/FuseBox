@@ -1,4 +1,4 @@
-paths = ['fb_pansharp:', 'common:'];
+paths = ['mmp_pansharp:', 'common:'];
 addpath(paths);
 
 load imagery/cropped/1_ms.mat
